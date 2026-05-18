@@ -1,0 +1,5 @@
+[project]
+name = "mmlu-repro-package"
+version = "0.1.0"
+description = "MMLU retrieval-file reproduction utilities for ReasonIR Table-2-style RAG experiments."
+requires-python = ">=3.10"
